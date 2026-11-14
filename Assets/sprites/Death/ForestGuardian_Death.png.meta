@@ -1,0 +1,3967 @@
+fileFormatVersion: 2
+guid: bb41ae1bfb8447e4a8148cab8ec8942e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1169826489459836097
+    second: ForestGuardian_Death_0
+  - first:
+      213: -794991829034137177
+    second: ForestGuardian_Death_1
+  - first:
+      213: -2130720106563891595
+    second: ForestGuardian_Death_2
+  - first:
+      213: -691934881006797510
+    second: ForestGuardian_Death_3
+  - first:
+      213: 2122451105454561120
+    second: ForestGuardian_Death_4
+  - first:
+      213: -8345019145112899843
+    second: ForestGuardian_Death_5
+  - first:
+      213: -2086286849083693300
+    second: ForestGuardian_Death_6
+  - first:
+      213: 1127895421941693470
+    second: ForestGuardian_Death_7
+  - first:
+      213: 1674111177929261893
+    second: ForestGuardian_Death_8
+  - first:
+      213: -4534421413424737674
+    second: ForestGuardian_Death_9
+  - first:
+      213: 5981263067361721698
+    second: ForestGuardian_Death_10
+  - first:
+      213: -202095709047026922
+    second: ForestGuardian_Death_11
+  - first:
+      213: -5812689905142600852
+    second: ForestGuardian_Death_12
+  - first:
+      213: 5200373311003338181
+    second: ForestGuardian_Death_13
+  - first:
+      213: -2395511229975064949
+    second: ForestGuardian_Death_14
+  - first:
+      213: -6683346634935908930
+    second: ForestGuardian_Death_15
+  - first:
+      213: 2714449835423127036
+    second: ForestGuardian_Death_16
+  - first:
+      213: -6607971119420370589
+    second: ForestGuardian_Death_17
+  - first:
+      213: -6539212186478760056
+    second: ForestGuardian_Death_18
+  - first:
+      213: -5827166680260808955
+    second: ForestGuardian_Death_19
+  - first:
+      213: -5919651861076974727
+    second: ForestGuardian_Death_20
+  - first:
+      213: 5326282292870201515
+    second: ForestGuardian_Death_21
+  - first:
+      213: -7784345270890957976
+    second: ForestGuardian_Death_22
+  - first:
+      213: 8155353027197749946
+    second: ForestGuardian_Death_23
+  - first:
+      213: 6902489964146704804
+    second: ForestGuardian_Death_24
+  - first:
+      213: 955552286766204973
+    second: ForestGuardian_Death_25
+  - first:
+      213: 693667803134823621
+    second: ForestGuardian_Death_26
+  - first:
+      213: 1420147475223089907
+    second: ForestGuardian_Death_27
+  - first:
+      213: 1888105008099342511
+    second: ForestGuardian_Death_28
+  - first:
+      213: 164241754905730515
+    second: ForestGuardian_Death_29
+  - first:
+      213: -2748632559728262648
+    second: ForestGuardian_Death_30
+  - first:
+      213: 2205625267891198075
+    second: ForestGuardian_Death_31
+  - first:
+      213: 6102022402776657331
+    second: ForestGuardian_Death_32
+  - first:
+      213: -5972690834808559613
+    second: ForestGuardian_Death_33
+  - first:
+      213: 7517758095214399705
+    second: ForestGuardian_Death_34
+  - first:
+      213: -4793519400425642664
+    second: ForestGuardian_Death_35
+  - first:
+      213: 4460942646852506508
+    second: ForestGuardian_Death_36
+  - first:
+      213: -8814910305772979153
+    second: ForestGuardian_Death_37
+  - first:
+      213: 5964867439323147632
+    second: ForestGuardian_Death_38
+  - first:
+      213: -176758182615133097
+    second: ForestGuardian_Death_39
+  - first:
+      213: 4868578325043770791
+    second: ForestGuardian_Death_40
+  - first:
+      213: 6245607899192018190
+    second: ForestGuardian_Death_41
+  - first:
+      213: 442521365677313325
+    second: ForestGuardian_Death_42
+  - first:
+      213: 3960714118780908438
+    second: ForestGuardian_Death_43
+  - first:
+      213: -8432168118184703628
+    second: ForestGuardian_Death_44
+  - first:
+      213: -8554474262037043052
+    second: ForestGuardian_Death_45
+  - first:
+      213: 6920530725140619197
+    second: ForestGuardian_Death_46
+  - first:
+      213: 7480093473544569987
+    second: ForestGuardian_Death_47
+  - first:
+      213: -7534677053051102539
+    second: ForestGuardian_Death_48
+  - first:
+      213: -3845503391084558466
+    second: ForestGuardian_Death_49
+  - first:
+      213: 4733630844622208251
+    second: ForestGuardian_Death_50
+  - first:
+      213: 3815103461147991326
+    second: ForestGuardian_Death_51
+  - first:
+      213: -1328475185907412423
+    second: ForestGuardian_Death_52
+  - first:
+      213: -9220899438379319528
+    second: ForestGuardian_Death_53
+  - first:
+      213: 1561628866705523503
+    second: ForestGuardian_Death_54
+  - first:
+      213: -5240418031366895137
+    second: ForestGuardian_Death_55
+  - first:
+      213: 6627631429681704683
+    second: ForestGuardian_Death_56
+  - first:
+      213: -3863440188186534891
+    second: ForestGuardian_Death_57
+  - first:
+      213: 6072020544776506522
+    second: ForestGuardian_Death_58
+  - first:
+      213: 6959950939421040960
+    second: ForestGuardian_Death_59
+  - first:
+      213: -2254387689589275522
+    second: ForestGuardian_Death_60
+  - first:
+      213: 339841577579144088
+    second: ForestGuardian_Death_61
+  - first:
+      213: -8349350795255895208
+    second: ForestGuardian_Death_62
+  - first:
+      213: 2749866355169030785
+    second: ForestGuardian_Death_63
+  - first:
+      213: 8062452210201657023
+    second: ForestGuardian_Death_64
+  - first:
+      213: -6825176979261241846
+    second: ForestGuardian_Death_65
+  - first:
+      213: -8280847837296418800
+    second: ForestGuardian_Death_66
+  - first:
+      213: 6440025021043507373
+    second: ForestGuardian_Death_67
+  - first:
+      213: -342438495348778237
+    second: ForestGuardian_Death_68
+  - first:
+      213: -7153461574929706622
+    second: ForestGuardian_Death_69
+  - first:
+      213: 4637154466248391959
+    second: ForestGuardian_Death_70
+  - first:
+      213: -1254870769201531383
+    second: ForestGuardian_Death_71
+  - first:
+      213: 2200910822453964537
+    second: ForestGuardian_Death_72
+  - first:
+      213: -1596584414016639358
+    second: ForestGuardian_Death_73
+  - first:
+      213: -6810444889414734163
+    second: ForestGuardian_Death_74
+  - first:
+      213: 1673551742505143146
+    second: ForestGuardian_Death_75
+  - first:
+      213: 7147328264112466456
+    second: ForestGuardian_Death_76
+  - first:
+      213: 4395693903529570560
+    second: ForestGuardian_Death_77
+  - first:
+      213: 7987208287713004161
+    second: ForestGuardian_Death_78
+  - first:
+      213: 9084627662108479192
+    second: ForestGuardian_Death_79
+  - first:
+      213: 5641707619112695687
+    second: ForestGuardian_Death_80
+  - first:
+      213: -2849443794741878041
+    second: ForestGuardian_Death_81
+  - first:
+      213: 2869238203645769677
+    second: ForestGuardian_Death_82
+  - first:
+      213: 7064077458176320305
+    second: ForestGuardian_Death_83
+  - first:
+      213: -7804377714883316310
+    second: ForestGuardian_Death_84
+  - first:
+      213: 3465714485555128092
+    second: ForestGuardian_Death_85
+  - first:
+      213: -2008253885196120410
+    second: ForestGuardian_Death_86
+  - first:
+      213: 4944580173837556119
+    second: ForestGuardian_Death_87
+  - first:
+      213: 3541830470573955813
+    second: ForestGuardian_Death_88
+  - first:
+      213: -516541492179635916
+    second: ForestGuardian_Death_89
+  - first:
+      213: 6619672272524165703
+    second: ForestGuardian_Death_90
+  - first:
+      213: -2782792345906377719
+    second: ForestGuardian_Death_91
+  - first:
+      213: 7871908783318582510
+    second: ForestGuardian_Death_92
+  - first:
+      213: -2867383783968670603
+    second: ForestGuardian_Death_93
+  - first:
+      213: -2857884741145288732
+    second: ForestGuardian_Death_94
+  - first:
+      213: 28018490911993008
+    second: ForestGuardian_Death_95
+  - first:
+      213: 5347574022558434195
+    second: ForestGuardian_Death_96
+  - first:
+      213: 5104301929364760923
+    second: ForestGuardian_Death_97
+  - first:
+      213: -7702587441178975872
+    second: ForestGuardian_Death_98
+  - first:
+      213: 7291104784974021787
+    second: ForestGuardian_Death_99
+  - first:
+      213: -2615478235587318733
+    second: ForestGuardian_Death_100
+  - first:
+      213: 3311363779352097294
+    second: ForestGuardian_Death_101
+  - first:
+      213: -8125954080441837956
+    second: ForestGuardian_Death_102
+  - first:
+      213: -1715394364262111728
+    second: ForestGuardian_Death_103
+  - first:
+      213: 63058375815053899
+    second: ForestGuardian_Death_104
+  - first:
+      213: 8621702591208611053
+    second: ForestGuardian_Death_105
+  - first:
+      213: -1344292275500893768
+    second: ForestGuardian_Death_106
+  - first:
+      213: -6210960698002166436
+    second: ForestGuardian_Death_107
+  - first:
+      213: -9163712508549764942
+    second: ForestGuardian_Death_108
+  - first:
+      213: -5951191529351753550
+    second: ForestGuardian_Death_109
+  - first:
+      213: 7642194559962374090
+    second: ForestGuardian_Death_110
+  - first:
+      213: -1037326326388727144
+    second: ForestGuardian_Death_111
+  - first:
+      213: -8668764907794389462
+    second: ForestGuardian_Death_112
+  - first:
+      213: -8004657741996376262
+    second: ForestGuardian_Death_113
+  - first:
+      213: 381750045210793803
+    second: ForestGuardian_Death_114
+  - first:
+      213: 5327970417962360438
+    second: ForestGuardian_Death_115
+  - first:
+      213: -945844271186382170
+    second: ForestGuardian_Death_116
+  - first:
+      213: -479302185569415084
+    second: ForestGuardian_Death_117
+  - first:
+      213: -2555394142039848589
+    second: ForestGuardian_Death_118
+  - first:
+      213: -2932887560012581167
+    second: ForestGuardian_Death_119
+  - first:
+      213: -153456102702586543
+    second: ForestGuardian_Death_120
+  - first:
+      213: -5054078866749303872
+    second: ForestGuardian_Death_121
+  - first:
+      213: 546950426126020049
+    second: ForestGuardian_Death_122
+  - first:
+      213: -1985074532826778215
+    second: ForestGuardian_Death_123
+  - first:
+      213: -8782488087119424523
+    second: ForestGuardian_Death_124
+  - first:
+      213: -3402513163074866124
+    second: ForestGuardian_Death_125
+  - first:
+      213: 8763549397168641700
+    second: ForestGuardian_Death_126
+  - first:
+      213: 5757174895297466330
+    second: ForestGuardian_Death_127
+  - first:
+      213: -3317927666834538778
+    second: ForestGuardian_Death_128
+  - first:
+      213: -6965679646996693135
+    second: ForestGuardian_Death_129
+  - first:
+      213: -252421321298520226
+    second: ForestGuardian_Death_130
+  - first:
+      213: -9206271826190564634
+    second: ForestGuardian_Death_131
+  - first:
+      213: -1809945495342071174
+    second: ForestGuardian_Death_132
+  - first:
+      213: 6650557607698152481
+    second: ForestGuardian_Death_133
+  - first:
+      213: -5705018445993807213
+    second: ForestGuardian_Death_134
+  - first:
+      213: -4393411624762745090
+    second: ForestGuardian_Death_135
+  - first:
+      213: 2734556946398604059
+    second: ForestGuardian_Death_136
+  - first:
+      213: 3343418143547501398
+    second: ForestGuardian_Death_137
+  - first:
+      213: -6839173489283911442
+    second: ForestGuardian_Death_138
+  - first:
+      213: 6316630664466835725
+    second: ForestGuardian_Death_139
+  - first:
+      213: -2386193040808454987
+    second: ForestGuardian_Death_140
+  - first:
+      213: 820074070552066205
+    second: ForestGuardian_Death_141
+  - first:
+      213: -3057480568560322945
+    second: ForestGuardian_Death_142
+  - first:
+      213: -6029278497125193814
+    second: ForestGuardian_Death_143
+  - first:
+      213: 2482336879995643742
+    second: ForestGuardian_Death_144
+  - first:
+      213: -5896357440791505730
+    second: ForestGuardian_Death_145
+  - first:
+      213: 4267337848377866696
+    second: ForestGuardian_Death_146
+  - first:
+      213: -813554029776659956
+    second: ForestGuardian_Death_147
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ForestGuardian_Death_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1077
+        width: 69
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b77ee7101f3cfe0800000000000000
+      internalID: -1169826489459836097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1176
+        width: 68
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9051fb42f97f4f0800000000000000
+      internalID: -794991829034137177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1201
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e0a742a592e62e0800000000000000
+      internalID: -2130720106563891595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1189
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d33e944e0c566f0800000000000000
+      internalID: -691934881006797510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1152
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06711c10906747d10800000000000000
+      internalID: 2122451105454561120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_5
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1219
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe26b32d49803c80800000000000000
+      internalID: -8345019145112899843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_6
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1181
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c072cc41a250c03e0800000000000000
+      internalID: -2086286849083693300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_7
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1193
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1cbf9019e617af00800000000000000
+      internalID: 1127895421941693470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_8
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 905
+        width: 187
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5430cfa1f33ab3710800000000000000
+      internalID: 1674111177929261893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_9
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1187
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672d4e6bfbf7211c0800000000000000
+      internalID: -4534421413424737674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_10
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1207
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d3246d117b10350800000000000000
+      internalID: 5981263067361721698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_11
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1220
+        width: 38
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b0f9bf503023df0800000000000000
+      internalID: -202095709047026922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_12
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1044
+        width: 190
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6be976045d255fa0800000000000000
+      internalID: -5812689905142600852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_13
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1187
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5a6cd39ff6b2840800000000000000
+      internalID: 5200373311003338181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_14
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1195
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e80e17a3f61ced0800000000000000
+      internalID: -2395511229975064949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_15
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1220
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5c7d935abff33a0800000000000000
+      internalID: -6683346634935908930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_16
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 1163
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf553095eb9aba520800000000000000
+      internalID: 2714449835423127036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_17
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1223
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36198e40745cb44a0800000000000000
+      internalID: -6607971119420370589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_18
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 1205
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f2702a92d0045a0800000000000000
+      internalID: -6539212186478760056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_19
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1205
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50fef0827ceb12fa0800000000000000
+      internalID: -5827166680260808955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_20
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 937
+        width: 316
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973e68afefb29dda0800000000000000
+      internalID: -5919651861076974727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_21
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 1187
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba04bf78681cae940800000000000000
+      internalID: 5326282292870201515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_22
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 1191
+        width: 74
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8637d87283378f390800000000000000
+      internalID: -7784345270890957976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_23
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 1189
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba470c8e52ad2170800000000000000
+      internalID: 8155353027197749946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_24
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1181
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1c9aa2d029acf50800000000000000
+      internalID: 6902489964146704804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_25
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 1189
+        width: 60
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d280309fdbdc24d00800000000000000
+      internalID: 955552286766204973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_26
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1133
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc0af5113760a900800000000000000
+      internalID: 693667803134823621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_27
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1106
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2175dba9065b310800000000000000
+      internalID: 1420147475223089907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_28
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1159
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8b5625085e33a10800000000000000
+      internalID: 1888105008099342511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_29
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1162
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd51728101874200800000000000000
+      internalID: 164241754905730515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_30
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1169
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8020353ff35ead9d0800000000000000
+      internalID: -2748632559728262648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_31
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1169
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78d748ce74fb9e10800000000000000
+      internalID: 2205625267891198075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_32
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1164
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd6af0ab0dbea450800000000000000
+      internalID: 6102022402776657331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_33
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1162
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3082106945dbc1da0800000000000000
+      internalID: -5972690834808559613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_34
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1159
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d052942821745860800000000000000
+      internalID: 7517758095214399705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_35
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1161
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855afa1a08ff97db0800000000000000
+      internalID: -4793519400425642664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_36
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1142
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83d805c3b378ed30800000000000000
+      internalID: 4460942646852506508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_37
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 1148
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2cb871c7c52ba580800000000000000
+      internalID: -8814910305772979153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_38
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 1053
+        width: 88
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d6625355777c250800000000000000
+      internalID: 5964867439323147632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_39
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1148
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754d4129e570c8df0800000000000000
+      internalID: -176758182615133097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_40
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1158
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a57669113aa09340800000000000000
+      internalID: 4868578325043770791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_41
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1124
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05c6bd2b4bdca650800000000000000
+      internalID: 6245607899192018190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_42
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1126
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d87b666d6242600800000000000000
+      internalID: 442521365677313325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_43
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1072
+        width: 89
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6937fca918847f630800000000000000
+      internalID: 3960714118780908438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_44
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1126
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4790a35a5cbeafa80800000000000000
+      internalID: -8432168118184703628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_45
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1142
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4986f037bf6684980800000000000000
+      internalID: -8554474262037043052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_46
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 1138
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbfde29270aaa0060800000000000000
+      internalID: 6920530725140619197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_47
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1124
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38487590261aec760800000000000000
+      internalID: 7480093473544569987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_48
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1108
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba1a9304237f6790800000000000000
+      internalID: -7534677053051102539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_49
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1118
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7748d74a0702aac0800000000000000
+      internalID: -3845503391084558466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_50
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1122
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfcf98f5c2c31b140800000000000000
+      internalID: 4733630844622208251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_51
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 1098
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1dd6177268f1f430800000000000000
+      internalID: 3815103461147991326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_52
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1028
+        width: 43
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93251136bde409de0800000000000000
+      internalID: -1328475185907412423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_53
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1092
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f3dc1b0d8c80080800000000000000
+      internalID: -9220899438379319528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_54
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1100
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f238afe2e250ca510800000000000000
+      internalID: 1561628866705523503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_55
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1094
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd903ddb09b4647b0800000000000000
+      internalID: -5240418031366895137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_56
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 1094
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee646caba31afb50800000000000000
+      internalID: 6627631429681704683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 964
+        width: 59
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c5c244e9d426ac0800000000000000
+      internalID: -3863440188186534891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_58
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1084
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c0748b386244450800000000000000
+      internalID: 6072020544776506522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_59
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1084
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04166560186b69060800000000000000
+      internalID: 6959950939421040960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_60
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1072
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e748400375ec6b0e0800000000000000
+      internalID: -2254387689589275522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_61
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1068
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893638f3d1c57b400800000000000000
+      internalID: 339841577579144088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_62
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1060
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ba5af30b5212c80800000000000000
+      internalID: -8349350795255895208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_63
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 915
+        width: 81
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182f5af61ec792620800000000000000
+      internalID: 2749866355169030785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_64
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1078
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbef1a7819593ef60800000000000000
+      internalID: 8062452210201657023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_65
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1000
+        width: 82
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06c5fdd2b91841a0800000000000000
+      internalID: -6825176979261241846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_66
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1079
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010a2ea04c4841d80800000000000000
+      internalID: -8280847837296418800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_67
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1076
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da00debc2a09f5950800000000000000
+      internalID: 6440025021043507373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_68
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1075
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b1157b00a6f3bf0800000000000000
+      internalID: -342438495348778237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_69
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 945
+        width: 26
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28198e7299cc9bc90800000000000000
+      internalID: -7153461574929706622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_70
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1064
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71df9591b6b7a5040800000000000000
+      internalID: 4637154466248391959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_71
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 962
+        width: 166
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906b8ba1fadc59ee0800000000000000
+      internalID: -1254870769201531383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_72
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1029
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe6eaa6bb43b8e10800000000000000
+      internalID: 2200910822453964537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_73
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 988
+        width: 64
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28eec9c3feac7d9e0800000000000000
+      internalID: -1596584414016639358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_74
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1036
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae6f04d4707c71a0800000000000000
+      internalID: -6810444889414734163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_75
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1035
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b41456176a93710800000000000000
+      internalID: 1673551742505143146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_76
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1016
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a68832039603360800000000000000
+      internalID: 7147328264112466456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_77
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 1044
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001fa3dd054a00d30800000000000000
+      internalID: 4395693903529570560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_78
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 1044
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a8030ae9348de60800000000000000
+      internalID: 7987208287713004161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_79
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 911
+        width: 81
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dec9ace9b4131e70800000000000000
+      internalID: 9084627662108479192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_80
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 986
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787b3d3403f5b4e40800000000000000
+      internalID: 5641707619112695687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_81
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1014
+        width: 60
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e228f637fdb478d0800000000000000
+      internalID: -2849443794741878041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_82
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1008
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc73940c1f491d720800000000000000
+      internalID: 2869238203645769677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_83
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1008
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133a1786505a80260800000000000000
+      internalID: 7064077458176320305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_84
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1012
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5b76351d741b390800000000000000
+      internalID: -7804377714883316310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 874
+        width: 59
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17607466f0b81030800000000000000
+      internalID: 3465714485555128092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_86
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 955
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae461a4bbf3124e0800000000000000
+      internalID: -2008253885196120410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_87
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 976
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799d609787dae9440800000000000000
+      internalID: 4944580173837556119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_88
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 931
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea173d2c0c172130800000000000000
+      internalID: 3541830470573955813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_89
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 907
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431f1e6ef30e4d8f0800000000000000
+      internalID: -516541492179635916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_90
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 933
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7424e4dfbdccddb50800000000000000
+      internalID: 6619672272524165703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_91
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 939
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c0392fa198169d0800000000000000
+      internalID: -2782792345906377719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_92
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 955
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee44bfdc453ae3d60800000000000000
+      internalID: 7871908783318582510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_93
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 923
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57cf4d9f3a10538d0800000000000000
+      internalID: -2867383783968670603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_94
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 966
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef960b38f0c658d0800000000000000
+      internalID: -2857884741145288732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_95
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 947
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bca3f54baa836000800000000000000
+      internalID: 28018490911993008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_96
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 929
+        width: 81
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393c3b8ad36663a40800000000000000
+      internalID: 5347574022558434195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_97
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 943
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59a02e9f8f16d640800000000000000
+      internalID: 5104301929364760923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_98
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 981
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08164254889ea1590800000000000000
+      internalID: -7702587441178975872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_99
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 706
+        width: 214
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9407880c253f2560800000000000000
+      internalID: 7291104784974021787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_100
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 950
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c6d02f664f3bbd0800000000000000
+      internalID: -2615478235587318733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_101
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 905
+        width: 75
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02706e10d354fd20800000000000000
+      internalID: 3311363779352097294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_102
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 992
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76d02621dfca3f80800000000000000
+      internalID: -8125954080441837956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_103
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 946
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016237c0ae1b138e0800000000000000
+      internalID: -1715394364262111728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_104
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 939
+        width: 98
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42c19a324700e000800000000000000
+      internalID: 63058375815053899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_105
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 921
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: decdd04b3d076a770800000000000000
+      internalID: 8621702591208611053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_106
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 915
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9b77c3c4d185de0800000000000000
+      internalID: -1344292275500893768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_107
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 921
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d2ba9f62c3ec9a0800000000000000
+      internalID: -6210960698002166436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_108
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 923
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b866106604f3d080800000000000000
+      internalID: -9163712508549764942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_109
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 918
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0dca6b5de196da0800000000000000
+      internalID: -5951191529351753550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_110
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 921
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acfdaf256778e0a60800000000000000
+      internalID: 7642194559962374090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_111
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 907
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892607fb33daa91f0800000000000000
+      internalID: -1037326326388727144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1245
+        height: 908
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a262b85de3c52b780800000000000000
+      internalID: -8668764907794389462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_113
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 881
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3fb9b3b13eb9e090800000000000000
+      internalID: -8004657741996376262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_114
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 905
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4757cdb4af3c4500800000000000000
+      internalID: 381750045210793803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_115
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 883
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e9f68cdd0c0f940800000000000000
+      internalID: 5327970417962360438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_116
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 895
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2f81b85afafd2f0800000000000000
+      internalID: -945844271186382170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 834
+        width: 6
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4501111a33d2959f0800000000000000
+      internalID: -479302185569415084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_118
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 849
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379c99e119a698cd0800000000000000
+      internalID: -2555394142039848589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_119
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 853
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6b943ad4a4c47d0800000000000000
+      internalID: -2932887560012581167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_120
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 739
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155ebc5dc70deddf0800000000000000
+      internalID: -153456102702586543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_121
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 699
+        width: 5
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c359906c0e4cd9b0800000000000000
+      internalID: -5054078866749303872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_122
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 706
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd6df2c388279700800000000000000
+      internalID: 546950426126020049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_123
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 697
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9957f22da399374e0800000000000000
+      internalID: -1985074532826778215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_124
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 706
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3952bcd955e1680800000000000000
+      internalID: -8782488087119424523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_125
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 630
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434f4533e48d7c0d0800000000000000
+      internalID: -3402513163074866124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_126
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 688
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a653d5deb16e9970800000000000000
+      internalID: 8763549397168641700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_127
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 577
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf8000801895ef40800000000000000
+      internalID: 5757174895297466330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_128
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 562
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eef2ebbd5a54f1d0800000000000000
+      internalID: -3317927666834538778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_129
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 513
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ff79d444fe45f90800000000000000
+      internalID: -6965679646996693135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_130
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 433
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57544a45283f7cf0800000000000000
+      internalID: -252421321298520226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_131
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 449
+        width: 66
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2893e0d80cc3080800000000000000
+      internalID: -9206271826190564634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_132
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 372
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7241575928c1e6e0800000000000000
+      internalID: -1809945495342071174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_133
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 375
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12cbe1578e68b4c50800000000000000
+      internalID: 6650557607698152481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_134
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 339
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 392fc7923f3b3d0b0800000000000000
+      internalID: -5705018445993807213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_135
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 345
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efed1f197677703c0800000000000000
+      internalID: -4393411624762745090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_136
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 345
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b6a20fd0913f520800000000000000
+      internalID: 2734556946398604059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_137
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 294
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65baebd5615366e20800000000000000
+      internalID: 3343418143547501398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_138
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 71
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee0b6fd62ff5611a0800000000000000
+      internalID: -6839173489283911442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_139
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 79
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09a2e45f1e29a750800000000000000
+      internalID: 6316630664466835725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_140
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 73
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b45a1d621a82eed0800000000000000
+      internalID: -2386193040808454987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_141
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 45
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d98b3c0b50d716b00800000000000000
+      internalID: 820074070552066205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_142
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 57
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f767d434f95a195d0800000000000000
+      internalID: -3057480568560322945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_143
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 47
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7a3feb623b35ca0800000000000000
+      internalID: -6029278497125193814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_144
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 45
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57edf88d38037220800000000000000
+      internalID: 2482336879995643742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_145
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 6
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb414e8d52eeb2ea0800000000000000
+      internalID: -5896357440791505730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_146
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 23
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9742de921a83b30800000000000000
+      internalID: 4267337848377866696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Death_147
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 32
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a13999beca5b4f0800000000000000
+      internalID: -813554029776659956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ForestGuardian_Death_0: -1169826489459836097
+      ForestGuardian_Death_1: -794991829034137177
+      ForestGuardian_Death_10: 5981263067361721698
+      ForestGuardian_Death_100: -2615478235587318733
+      ForestGuardian_Death_101: 3311363779352097294
+      ForestGuardian_Death_102: -8125954080441837956
+      ForestGuardian_Death_103: -1715394364262111728
+      ForestGuardian_Death_104: 63058375815053899
+      ForestGuardian_Death_105: 8621702591208611053
+      ForestGuardian_Death_106: -1344292275500893768
+      ForestGuardian_Death_107: -6210960698002166436
+      ForestGuardian_Death_108: -9163712508549764942
+      ForestGuardian_Death_109: -5951191529351753550
+      ForestGuardian_Death_11: -202095709047026922
+      ForestGuardian_Death_110: 7642194559962374090
+      ForestGuardian_Death_111: -1037326326388727144
+      ForestGuardian_Death_112: -8668764907794389462
+      ForestGuardian_Death_113: -8004657741996376262
+      ForestGuardian_Death_114: 381750045210793803
+      ForestGuardian_Death_115: 5327970417962360438
+      ForestGuardian_Death_116: -945844271186382170
+      ForestGuardian_Death_117: -479302185569415084
+      ForestGuardian_Death_118: -2555394142039848589
+      ForestGuardian_Death_119: -2932887560012581167
+      ForestGuardian_Death_12: -5812689905142600852
+      ForestGuardian_Death_120: -153456102702586543
+      ForestGuardian_Death_121: -5054078866749303872
+      ForestGuardian_Death_122: 546950426126020049
+      ForestGuardian_Death_123: -1985074532826778215
+      ForestGuardian_Death_124: -8782488087119424523
+      ForestGuardian_Death_125: -3402513163074866124
+      ForestGuardian_Death_126: 8763549397168641700
+      ForestGuardian_Death_127: 5757174895297466330
+      ForestGuardian_Death_128: -3317927666834538778
+      ForestGuardian_Death_129: -6965679646996693135
+      ForestGuardian_Death_13: 5200373311003338181
+      ForestGuardian_Death_130: -252421321298520226
+      ForestGuardian_Death_131: -9206271826190564634
+      ForestGuardian_Death_132: -1809945495342071174
+      ForestGuardian_Death_133: 6650557607698152481
+      ForestGuardian_Death_134: -5705018445993807213
+      ForestGuardian_Death_135: -4393411624762745090
+      ForestGuardian_Death_136: 2734556946398604059
+      ForestGuardian_Death_137: 3343418143547501398
+      ForestGuardian_Death_138: -6839173489283911442
+      ForestGuardian_Death_139: 6316630664466835725
+      ForestGuardian_Death_14: -2395511229975064949
+      ForestGuardian_Death_140: -2386193040808454987
+      ForestGuardian_Death_141: 820074070552066205
+      ForestGuardian_Death_142: -3057480568560322945
+      ForestGuardian_Death_143: -6029278497125193814
+      ForestGuardian_Death_144: 2482336879995643742
+      ForestGuardian_Death_145: -5896357440791505730
+      ForestGuardian_Death_146: 4267337848377866696
+      ForestGuardian_Death_147: -813554029776659956
+      ForestGuardian_Death_15: -6683346634935908930
+      ForestGuardian_Death_16: 2714449835423127036
+      ForestGuardian_Death_17: -6607971119420370589
+      ForestGuardian_Death_18: -6539212186478760056
+      ForestGuardian_Death_19: -5827166680260808955
+      ForestGuardian_Death_2: -2130720106563891595
+      ForestGuardian_Death_20: -5919651861076974727
+      ForestGuardian_Death_21: 5326282292870201515
+      ForestGuardian_Death_22: -7784345270890957976
+      ForestGuardian_Death_23: 8155353027197749946
+      ForestGuardian_Death_24: 6902489964146704804
+      ForestGuardian_Death_25: 955552286766204973
+      ForestGuardian_Death_26: 693667803134823621
+      ForestGuardian_Death_27: 1420147475223089907
+      ForestGuardian_Death_28: 1888105008099342511
+      ForestGuardian_Death_29: 164241754905730515
+      ForestGuardian_Death_3: -691934881006797510
+      ForestGuardian_Death_30: -2748632559728262648
+      ForestGuardian_Death_31: 2205625267891198075
+      ForestGuardian_Death_32: 6102022402776657331
+      ForestGuardian_Death_33: -5972690834808559613
+      ForestGuardian_Death_34: 7517758095214399705
+      ForestGuardian_Death_35: -4793519400425642664
+      ForestGuardian_Death_36: 4460942646852506508
+      ForestGuardian_Death_37: -8814910305772979153
+      ForestGuardian_Death_38: 5964867439323147632
+      ForestGuardian_Death_39: -176758182615133097
+      ForestGuardian_Death_4: 2122451105454561120
+      ForestGuardian_Death_40: 4868578325043770791
+      ForestGuardian_Death_41: 6245607899192018190
+      ForestGuardian_Death_42: 442521365677313325
+      ForestGuardian_Death_43: 3960714118780908438
+      ForestGuardian_Death_44: -8432168118184703628
+      ForestGuardian_Death_45: -8554474262037043052
+      ForestGuardian_Death_46: 6920530725140619197
+      ForestGuardian_Death_47: 7480093473544569987
+      ForestGuardian_Death_48: -7534677053051102539
+      ForestGuardian_Death_49: -3845503391084558466
+      ForestGuardian_Death_5: -8345019145112899843
+      ForestGuardian_Death_50: 4733630844622208251
+      ForestGuardian_Death_51: 3815103461147991326
+      ForestGuardian_Death_52: -1328475185907412423
+      ForestGuardian_Death_53: -9220899438379319528
+      ForestGuardian_Death_54: 1561628866705523503
+      ForestGuardian_Death_55: -5240418031366895137
+      ForestGuardian_Death_56: 6627631429681704683
+      ForestGuardian_Death_57: -3863440188186534891
+      ForestGuardian_Death_58: 6072020544776506522
+      ForestGuardian_Death_59: 6959950939421040960
+      ForestGuardian_Death_6: -2086286849083693300
+      ForestGuardian_Death_60: -2254387689589275522
+      ForestGuardian_Death_61: 339841577579144088
+      ForestGuardian_Death_62: -8349350795255895208
+      ForestGuardian_Death_63: 2749866355169030785
+      ForestGuardian_Death_64: 8062452210201657023
+      ForestGuardian_Death_65: -6825176979261241846
+      ForestGuardian_Death_66: -8280847837296418800
+      ForestGuardian_Death_67: 6440025021043507373
+      ForestGuardian_Death_68: -342438495348778237
+      ForestGuardian_Death_69: -7153461574929706622
+      ForestGuardian_Death_7: 1127895421941693470
+      ForestGuardian_Death_70: 4637154466248391959
+      ForestGuardian_Death_71: -1254870769201531383
+      ForestGuardian_Death_72: 2200910822453964537
+      ForestGuardian_Death_73: -1596584414016639358
+      ForestGuardian_Death_74: -6810444889414734163
+      ForestGuardian_Death_75: 1673551742505143146
+      ForestGuardian_Death_76: 7147328264112466456
+      ForestGuardian_Death_77: 4395693903529570560
+      ForestGuardian_Death_78: 7987208287713004161
+      ForestGuardian_Death_79: 9084627662108479192
+      ForestGuardian_Death_8: 1674111177929261893
+      ForestGuardian_Death_80: 5641707619112695687
+      ForestGuardian_Death_81: -2849443794741878041
+      ForestGuardian_Death_82: 2869238203645769677
+      ForestGuardian_Death_83: 7064077458176320305
+      ForestGuardian_Death_84: -7804377714883316310
+      ForestGuardian_Death_85: 3465714485555128092
+      ForestGuardian_Death_86: -2008253885196120410
+      ForestGuardian_Death_87: 4944580173837556119
+      ForestGuardian_Death_88: 3541830470573955813
+      ForestGuardian_Death_89: -516541492179635916
+      ForestGuardian_Death_9: -4534421413424737674
+      ForestGuardian_Death_90: 6619672272524165703
+      ForestGuardian_Death_91: -2782792345906377719
+      ForestGuardian_Death_92: 7871908783318582510
+      ForestGuardian_Death_93: -2867383783968670603
+      ForestGuardian_Death_94: -2857884741145288732
+      ForestGuardian_Death_95: 28018490911993008
+      ForestGuardian_Death_96: 5347574022558434195
+      ForestGuardian_Death_97: 5104301929364760923
+      ForestGuardian_Death_98: -7702587441178975872
+      ForestGuardian_Death_99: 7291104784974021787
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
