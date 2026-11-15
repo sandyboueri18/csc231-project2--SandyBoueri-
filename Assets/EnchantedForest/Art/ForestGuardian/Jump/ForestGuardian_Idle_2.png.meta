@@ -1,0 +1,1211 @@
+fileFormatVersion: 2
+guid: 0ee5483d40286fb46b170e2486345e0e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6808081903680868342
+    second: ForestGuardian_Idle_2_0
+  - first:
+      213: 1197971179062642868
+    second: ForestGuardian_Idle_2_1
+  - first:
+      213: -6260773151095900720
+    second: ForestGuardian_Idle_2_2
+  - first:
+      213: 1890749834458777253
+    second: ForestGuardian_Idle_2_3
+  - first:
+      213: 2663451504508491160
+    second: ForestGuardian_Idle_2_4
+  - first:
+      213: -6127491279403809402
+    second: ForestGuardian_Idle_2_5
+  - first:
+      213: 2785361469879600235
+    second: ForestGuardian_Idle_2_6
+  - first:
+      213: -180942763908323441
+    second: ForestGuardian_Idle_2_7
+  - first:
+      213: -52920746906449041
+    second: ForestGuardian_Idle_2_8
+  - first:
+      213: -5366747174031578240
+    second: ForestGuardian_Idle_2_9
+  - first:
+      213: -8459581668690414106
+    second: ForestGuardian_Idle_2_10
+  - first:
+      213: 7837337548627511259
+    second: ForestGuardian_Idle_2_11
+  - first:
+      213: -4885227425372808894
+    second: ForestGuardian_Idle_2_12
+  - first:
+      213: -8710696494880240088
+    second: ForestGuardian_Idle_2_13
+  - first:
+      213: -8223017387932557954
+    second: ForestGuardian_Idle_2_14
+  - first:
+      213: -2028991062693688796
+    second: ForestGuardian_Idle_2_15
+  - first:
+      213: -2462785223287877718
+    second: ForestGuardian_Idle_2_16
+  - first:
+      213: 4952069220855985869
+    second: ForestGuardian_Idle_2_17
+  - first:
+      213: -6114788561210763701
+    second: ForestGuardian_Idle_2_18
+  - first:
+      213: 582106586592131981
+    second: ForestGuardian_Idle_2_19
+  - first:
+      213: 3177011995183405873
+    second: ForestGuardian_Idle_2_20
+  - first:
+      213: 6505589631715771988
+    second: ForestGuardian_Idle_2_21
+  - first:
+      213: 1974318215809435720
+    second: ForestGuardian_Idle_2_22
+  - first:
+      213: 5164837832592630886
+    second: ForestGuardian_Idle_2_23
+  - first:
+      213: 4509803613001781086
+    second: ForestGuardian_Idle_2_24
+  - first:
+      213: -3099969331765660909
+    second: ForestGuardian_Idle_2_25
+  - first:
+      213: 1498563073081758526
+    second: ForestGuardian_Idle_2_26
+  - first:
+      213: 7669725023362969973
+    second: ForestGuardian_Idle_2_27
+  - first:
+      213: 3891953770489521816
+    second: ForestGuardian_Idle_2_28
+  - first:
+      213: -5863191819851545075
+    second: ForestGuardian_Idle_2_29
+  - first:
+      213: 3743237680555435393
+    second: ForestGuardian_Idle_2_30
+  - first:
+      213: 8992646622647091718
+    second: ForestGuardian_Idle_2_31
+  - first:
+      213: 8619975172205092140
+    second: ForestGuardian_Idle_2_32
+  - first:
+      213: -9212632096278332152
+    second: ForestGuardian_Idle_2_33
+  - first:
+      213: -6980969465246209394
+    second: ForestGuardian_Idle_2_34
+  - first:
+      213: 7459198178610915840
+    second: ForestGuardian_Idle_2_35
+  - first:
+      213: -1769466506759987637
+    second: ForestGuardian_Idle_2_36
+  - first:
+      213: -8489274715632799329
+    second: ForestGuardian_Idle_2_37
+  - first:
+      213: 5011423146917011225
+    second: ForestGuardian_Idle_2_38
+  - first:
+      213: -5490303225677742264
+    second: ForestGuardian_Idle_2_39
+  - first:
+      213: 6926165368045733060
+    second: ForestGuardian_Idle_2_40
+  - first:
+      213: 7067831974640544817
+    second: ForestGuardian_Idle_2_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ForestGuardian_Idle_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 717
+        width: 90
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0036515495d481a0800000000000000
+      internalID: -6808081903680868342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Idle_2_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 806
+        height: 879
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b84f23b07c00a010800000000000000
+      internalID: 1197971179062642868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Idle_2_2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 711
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d530a57df34d19a0800000000000000
+      internalID: -6260773151095900720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Idle_2_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 773
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a64b02f4fa4d3a10800000000000000
+      internalID: 1890749834458777253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Idle_2_4
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 632
+        width: 70
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89555b2280b76f420800000000000000
+      internalID: 2663451504508491160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Idle_2_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 612
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68505de6527c6faa0800000000000000
+      internalID: -6127491279403809402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Idle_2_6
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 682
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64cb37df7797a620800000000000000
+      internalID: 2785361469879600235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Idle_2_7
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 642
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f872190d3892d7df0800000000000000
+      internalID: -180942763908323441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Idle_2_8
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 640
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b846f6cdcf34ff0800000000000000
+      internalID: -52920746906449041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Idle_2_9
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 604
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b248421eb7585b0800000000000000
+      internalID: -5366747174031578240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Idle_2_10
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 596
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e53d490b47899a80800000000000000
+      internalID: -8459581668690414106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Idle_2_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 573
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd706caf9f0d3cc60800000000000000
+      internalID: 7837337548627511259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Idle_2_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 487
+        width: 50
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24958a72a8f243cb0800000000000000
+      internalID: -4885227425372808894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Idle_2_13
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 569
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e4c6c60b36d1780800000000000000
+      internalID: -8710696494880240088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Idle_2_14
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 567
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d5b6ac049f1ed80800000000000000
+      internalID: -8223017387932557954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Idle_2_15
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 569
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a43b7e06397d3e0800000000000000
+      internalID: -2028991062693688796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Idle_2_16
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 555
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf48d743ed62ddd0800000000000000
+      internalID: -2462785223287877718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Idle_2_17
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 555
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6344c18b849b440800000000000000
+      internalID: 4952069220855985869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Idle_2_18
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 492
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46196c7338e32ba0800000000000000
+      internalID: -6114788561210763701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Idle_2_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 432
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b3d3b3bde041800800000000000000
+      internalID: 582106586592131981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Idle_2_20
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 451
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13bdf0cb393071c20800000000000000
+      internalID: 3177011995183405873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Idle_2_21
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 445
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45602ec4d4f784a50800000000000000
+      internalID: 6505589631715771988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Idle_2_22
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 426
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84887e6f4ff266b10800000000000000
+      internalID: 1974318215809435720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Idle_2_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 56
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664ae2ee4a03da740800000000000000
+      internalID: 5164837832592630886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Idle_2_24
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 344
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f8eb7fd7a069e30800000000000000
+      internalID: 4509803613001781086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Idle_2_25
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 281
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313b08d2152baf4d0800000000000000
+      internalID: -3099969331765660909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Idle_2_26
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 136
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e335e8cdc27fbc410800000000000000
+      internalID: 1498563073081758526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Idle_2_27
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 206
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5717976d546507a60800000000000000
+      internalID: 7669725023362969973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Idle_2_28
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 198
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8962544755ff20630800000000000000
+      internalID: 3891953770489521816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Idle_2_29
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 195
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06c5c7ba12c1aea0800000000000000
+      internalID: -5863191819851545075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Idle_2_30
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 147
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1852d5386d6a2f330800000000000000
+      internalID: 3743237680555435393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Idle_2_31
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 160
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6020f7d457c4ccc70800000000000000
+      internalID: 8992646622647091718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Idle_2_32
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 164
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d98ff9fbd40a770800000000000000
+      internalID: 8619975172205092140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Idle_2_33
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 155
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80db7f64be7262080800000000000000
+      internalID: -9212632096278332152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Idle_2_34
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 98
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8aa624124d9e1f90800000000000000
+      internalID: -6980969465246209394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Idle_2_35
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 61
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a28511935648760800000000000000
+      internalID: 7459198178610915840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Idle_2_36
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 59
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e9e9e46979177e0800000000000000
+      internalID: -1769466506759987637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Idle_2_37
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 80
+        width: 72
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91700ecf99003a80800000000000000
+      internalID: -8489274715632799329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Idle_2_38
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 58
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f982becc62c8540800000000000000
+      internalID: 5011423146917011225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Idle_2_39
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 55
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ffb4c1e468ec3b0800000000000000
+      internalID: -5490303225677742264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Idle_2_40
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 15
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c48af1b4beae1060800000000000000
+      internalID: 6926165368045733060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestGuardian_Idle_2_41
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ce894ebbbf51260800000000000000
+      internalID: 7067831974640544817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ForestGuardian_Idle_2_0: -6808081903680868342
+      ForestGuardian_Idle_2_1: 1197971179062642868
+      ForestGuardian_Idle_2_10: -8459581668690414106
+      ForestGuardian_Idle_2_11: 7837337548627511259
+      ForestGuardian_Idle_2_12: -4885227425372808894
+      ForestGuardian_Idle_2_13: -8710696494880240088
+      ForestGuardian_Idle_2_14: -8223017387932557954
+      ForestGuardian_Idle_2_15: -2028991062693688796
+      ForestGuardian_Idle_2_16: -2462785223287877718
+      ForestGuardian_Idle_2_17: 4952069220855985869
+      ForestGuardian_Idle_2_18: -6114788561210763701
+      ForestGuardian_Idle_2_19: 582106586592131981
+      ForestGuardian_Idle_2_2: -6260773151095900720
+      ForestGuardian_Idle_2_20: 3177011995183405873
+      ForestGuardian_Idle_2_21: 6505589631715771988
+      ForestGuardian_Idle_2_22: 1974318215809435720
+      ForestGuardian_Idle_2_23: 5164837832592630886
+      ForestGuardian_Idle_2_24: 4509803613001781086
+      ForestGuardian_Idle_2_25: -3099969331765660909
+      ForestGuardian_Idle_2_26: 1498563073081758526
+      ForestGuardian_Idle_2_27: 7669725023362969973
+      ForestGuardian_Idle_2_28: 3891953770489521816
+      ForestGuardian_Idle_2_29: -5863191819851545075
+      ForestGuardian_Idle_2_3: 1890749834458777253
+      ForestGuardian_Idle_2_30: 3743237680555435393
+      ForestGuardian_Idle_2_31: 8992646622647091718
+      ForestGuardian_Idle_2_32: 8619975172205092140
+      ForestGuardian_Idle_2_33: -9212632096278332152
+      ForestGuardian_Idle_2_34: -6980969465246209394
+      ForestGuardian_Idle_2_35: 7459198178610915840
+      ForestGuardian_Idle_2_36: -1769466506759987637
+      ForestGuardian_Idle_2_37: -8489274715632799329
+      ForestGuardian_Idle_2_38: 5011423146917011225
+      ForestGuardian_Idle_2_39: -5490303225677742264
+      ForestGuardian_Idle_2_4: 2663451504508491160
+      ForestGuardian_Idle_2_40: 6926165368045733060
+      ForestGuardian_Idle_2_41: 7067831974640544817
+      ForestGuardian_Idle_2_5: -6127491279403809402
+      ForestGuardian_Idle_2_6: 2785361469879600235
+      ForestGuardian_Idle_2_7: -180942763908323441
+      ForestGuardian_Idle_2_8: -52920746906449041
+      ForestGuardian_Idle_2_9: -5366747174031578240
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
