@@ -1,0 +1,2277 @@
+fileFormatVersion: 2
+guid: 81185dd0c45f73540bcc4d86afc5e0f2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4388193784262764511
+    second: Emerald_Crystal_0
+  - first:
+      213: 5739190278042731480
+    second: Emerald_Crystal_1
+  - first:
+      213: -8584670166110740377
+    second: Emerald_Crystal_2
+  - first:
+      213: -7223497522098185779
+    second: Emerald_Crystal_3
+  - first:
+      213: -756205909101604579
+    second: Emerald_Crystal_4
+  - first:
+      213: -8579629022568585402
+    second: Emerald_Crystal_5
+  - first:
+      213: 7866546599485041580
+    second: Emerald_Crystal_6
+  - first:
+      213: 8366761316079836847
+    second: Emerald_Crystal_7
+  - first:
+      213: 4030026604544105310
+    second: Emerald_Crystal_8
+  - first:
+      213: 2481822439738319490
+    second: Emerald_Crystal_9
+  - first:
+      213: 9113632140483337011
+    second: Emerald_Crystal_10
+  - first:
+      213: -3897299002556719005
+    second: Emerald_Crystal_11
+  - first:
+      213: -1944321527046136671
+    second: Emerald_Crystal_12
+  - first:
+      213: 1612469008266629047
+    second: Emerald_Crystal_13
+  - first:
+      213: -2474832957149259458
+    second: Emerald_Crystal_14
+  - first:
+      213: -8437975462764958152
+    second: Emerald_Crystal_15
+  - first:
+      213: -2579047125189165416
+    second: Emerald_Crystal_16
+  - first:
+      213: 3490080834127088819
+    second: Emerald_Crystal_17
+  - first:
+      213: 7585510604380960876
+    second: Emerald_Crystal_18
+  - first:
+      213: 4191475835939766950
+    second: Emerald_Crystal_19
+  - first:
+      213: 4215864212955875315
+    second: Emerald_Crystal_20
+  - first:
+      213: 2287811555209033169
+    second: Emerald_Crystal_21
+  - first:
+      213: -3961007675086915270
+    second: Emerald_Crystal_22
+  - first:
+      213: 2119089946614208898
+    second: Emerald_Crystal_23
+  - first:
+      213: 1069059610008563588
+    second: Emerald_Crystal_24
+  - first:
+      213: 7132326806064668959
+    second: Emerald_Crystal_25
+  - first:
+      213: 105346065256662058
+    second: Emerald_Crystal_26
+  - first:
+      213: 2357765011028829198
+    second: Emerald_Crystal_27
+  - first:
+      213: -2047004427196470840
+    second: Emerald_Crystal_28
+  - first:
+      213: 3508659852576365602
+    second: Emerald_Crystal_29
+  - first:
+      213: 8738650875597106882
+    second: Emerald_Crystal_30
+  - first:
+      213: 4950787117281459822
+    second: Emerald_Crystal_31
+  - first:
+      213: 8677365453655357443
+    second: Emerald_Crystal_32
+  - first:
+      213: -1968371155104508697
+    second: Emerald_Crystal_33
+  - first:
+      213: 412288218404025405
+    second: Emerald_Crystal_34
+  - first:
+      213: -607850013622102069
+    second: Emerald_Crystal_35
+  - first:
+      213: -3878204023710088875
+    second: Emerald_Crystal_36
+  - first:
+      213: -3353451742346704957
+    second: Emerald_Crystal_37
+  - first:
+      213: 1697641240036631429
+    second: Emerald_Crystal_38
+  - first:
+      213: 6999042919043571950
+    second: Emerald_Crystal_39
+  - first:
+      213: 3054915024535787197
+    second: Emerald_Crystal_40
+  - first:
+      213: 2577076295617152310
+    second: Emerald_Crystal_41
+  - first:
+      213: 1836511650712423353
+    second: Emerald_Crystal_42
+  - first:
+      213: -9034882882114449811
+    second: Emerald_Crystal_43
+  - first:
+      213: 6137711324474553121
+    second: Emerald_Crystal_44
+  - first:
+      213: 1896343967781134069
+    second: Emerald_Crystal_45
+  - first:
+      213: -3350507475500185143
+    second: Emerald_Crystal_46
+  - first:
+      213: -9000228346808550383
+    second: Emerald_Crystal_47
+  - first:
+      213: 1179972940790679357
+    second: Emerald_Crystal_48
+  - first:
+      213: -8257332209684100176
+    second: Emerald_Crystal_49
+  - first:
+      213: -7425425429396018539
+    second: Emerald_Crystal_50
+  - first:
+      213: -4968488895120947064
+    second: Emerald_Crystal_51
+  - first:
+      213: 7911077888874564453
+    second: Emerald_Crystal_52
+  - first:
+      213: -8433069350412789996
+    second: Emerald_Crystal_53
+  - first:
+      213: -6656128929414029995
+    second: Emerald_Crystal_54
+  - first:
+      213: 3276592794363691678
+    second: Emerald_Crystal_55
+  - first:
+      213: -1059529101343167256
+    second: Emerald_Crystal_56
+  - first:
+      213: 5699232877778849308
+    second: Emerald_Crystal_57
+  - first:
+      213: -7664657152492949460
+    second: Emerald_Crystal_58
+  - first:
+      213: 5325311177694457236
+    second: Emerald_Crystal_59
+  - first:
+      213: -5660527218837429359
+    second: Emerald_Crystal_60
+  - first:
+      213: -2023232157585849376
+    second: Emerald_Crystal_61
+  - first:
+      213: 4135844641545720325
+    second: Emerald_Crystal_62
+  - first:
+      213: 7635830826317321914
+    second: Emerald_Crystal_63
+  - first:
+      213: 9087602434787452138
+    second: Emerald_Crystal_64
+  - first:
+      213: 7956554618272174717
+    second: Emerald_Crystal_65
+  - first:
+      213: -4061341441691418012
+    second: Emerald_Crystal_66
+  - first:
+      213: -1583761594249441060
+    second: Emerald_Crystal_67
+  - first:
+      213: -1889968862358565792
+    second: Emerald_Crystal_68
+  - first:
+      213: -6557762658730154393
+    second: Emerald_Crystal_69
+  - first:
+      213: 3251529544284393068
+    second: Emerald_Crystal_70
+  - first:
+      213: 3389505463685262167
+    second: Emerald_Crystal_71
+  - first:
+      213: -8751433618200233556
+    second: Emerald_Crystal_72
+  - first:
+      213: 6408635481249163355
+    second: Emerald_Crystal_73
+  - first:
+      213: -158472015717228062
+    second: Emerald_Crystal_74
+  - first:
+      213: -2978197982085348283
+    second: Emerald_Crystal_75
+  - first:
+      213: -8261279233696424907
+    second: Emerald_Crystal_76
+  - first:
+      213: -4378342995902265154
+    second: Emerald_Crystal_77
+  - first:
+      213: 7789084841954021981
+    second: Emerald_Crystal_78
+  - first:
+      213: -2203771213599498551
+    second: Emerald_Crystal_79
+  - first:
+      213: 4123077480984258516
+    second: Emerald_Crystal_80
+  - first:
+      213: -2719804965023509858
+    second: Emerald_Crystal_81
+  - first:
+      213: 4123522663584085221
+    second: Emerald_Crystal_82
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Emerald_Crystal_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 82
+        width: 599
+        height: 1103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128d07bb0010a13c0800000000000000
+      internalID: -4388193784262764511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_1
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1119
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3cc1d7623b5af40800000000000000
+      internalID: 5739190278042731480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_2
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1109
+        width: 49
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760631ba7ff1dd880800000000000000
+      internalID: -8584670166110740377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_3
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 716
+        width: 565
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc95c6f764bf0cb90800000000000000
+      internalID: -7223497522098185779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_4
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1117
+        width: 69
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1192f27bba6185f0800000000000000
+      internalID: -756205909101604579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_5
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1162
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 647ea2d5cd80fe880800000000000000
+      internalID: -8579629022568585402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_6
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1133
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cabec5714769b2d60800000000000000
+      internalID: 7866546599485041580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_7
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1109
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae1b658615bc1470800000000000000
+      internalID: 8366761316079836847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_8
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1121
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b993748d78de730800000000000000
+      internalID: 4030026604544105310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_9
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1129
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28222341c54317220800000000000000
+      internalID: 2481822439738319490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_10
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1133
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b971b45202a7e70800000000000000
+      internalID: 9113632140483337011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_11
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1101
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3606f19b4330ae9c0800000000000000
+      internalID: -3897299002556719005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_12
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1117
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac15436fd16405e0800000000000000
+      internalID: -1944321527046136671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_13
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1117
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf0f011504a06610800000000000000
+      internalID: 1612469008266629047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_14
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1091
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3950b6a980a7add0800000000000000
+      internalID: -2474832957149259458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_15
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1109
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83eae6ed50a46ea80800000000000000
+      internalID: -8437975462764958152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_16
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1022
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e7b14dd42653cd0800000000000000
+      internalID: -2579047125189165416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_17
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 1050
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc4b8307024f6030800000000000000
+      internalID: 3490080834127088819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_18
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1034
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68f51674b5254960800000000000000
+      internalID: 7585510604380960876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_19
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1036
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2c2ddb01d1b2a30800000000000000
+      internalID: 4191475835939766950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_20
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 23
+        width: 923
+        height: 971
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f744824a22c18a30800000000000000
+      internalID: 4215864212955875315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_21
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 959
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5b445fc70ffbf10800000000000000
+      internalID: 2287811555209033169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_22
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 952
+        width: 25
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3939dd718ca709c0800000000000000
+      internalID: -3961007675086915270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_23
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 914
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2899a0b3415886d10800000000000000
+      internalID: 2119089946614208898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_24
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 910
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f274a1d0016de00800000000000000
+      internalID: 1069059610008563588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_25
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 809
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f112b71017d1bf260800000000000000
+      internalID: 7132326806064668959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_26
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 758
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24cb1e20b3467100800000000000000
+      internalID: 105346065256662058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_27
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 777
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04e73a19c678b020800000000000000
+      internalID: 2357765011028829198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_28
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 781
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c96d47a1549793e0800000000000000
+      internalID: -2047004427196470840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_29
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 759
+        width: 9
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c1d76db8341b030800000000000000
+      internalID: 3508659852576365602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_30
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 582
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce2f180cace54970800000000000000
+      internalID: 8738650875597106882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_31
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 558
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e342c17aab4b440800000000000000
+      internalID: 4950787117281459822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_32
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 552
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308bf5bc7e13c6870800000000000000
+      internalID: 8677365453655357443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_33
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 549
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4ded10dd0fea4e0800000000000000
+      internalID: -1968371155104508697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_34
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 611
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34fc0343fdb8b500800000000000000
+      internalID: 412288218404025405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_35
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 617
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7965512ab7097f0800000000000000
+      internalID: -607850013622102069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_36
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 558
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5510540fcf9dd2ac0800000000000000
+      internalID: -3878204023710088875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_37
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 550
+        width: 99
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7820e58652671d0800000000000000
+      internalID: -3353451742346704957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_38
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 507
+        width: 67
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583ef6c96bb3f8710800000000000000
+      internalID: 1697641240036631429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_39
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 534
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee02e4dc378912160800000000000000
+      internalID: 6999042919043571950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_40
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 485
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db69578770d356a20800000000000000
+      internalID: 3054915024535787197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_41
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 485
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6350757ac3d93c320800000000000000
+      internalID: 2577076295617152310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_42
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 453
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb8496bd999c7910800000000000000
+      internalID: 1836511650712423353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_43
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 445
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e8f4833e5ad9280800000000000000
+      internalID: -9034882882114449811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_44
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 451
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123b23d3ee78d2550800000000000000
+      internalID: 6137711324474553121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_45
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 432
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe9c8b9aca215a10800000000000000
+      internalID: 1896343967781134069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_46
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 442
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c94589e33b9081d0800000000000000
+      internalID: -3350507475500185143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_47
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 438
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c331bf004c81380800000000000000
+      internalID: -9000228346808550383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_48
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 416
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37c66c432b106010800000000000000
+      internalID: 1179972940790679357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_49
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 258
+        width: 181
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb4361ca10186d80800000000000000
+      internalID: -8257332209684100176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_50
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 384
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59aa2bed9e693f890800000000000000
+      internalID: -7425425429396018539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_51
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 339
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888c7df8ca16c0bb0800000000000000
+      internalID: -4968488895120947064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_52
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 339
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56bc0dcdc6bc9cd60800000000000000
+      internalID: 7911077888874564453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_53
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 216
+        width: 161
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417596a2b18b7fa80800000000000000
+      internalID: -8433069350412789996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_54
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 261
+        width: 45
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d531f110ea0a3a0800000000000000
+      internalID: -6656128929414029995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_55
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 242
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9207ad49cbc87d20800000000000000
+      internalID: 3276592794363691678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_56
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 238
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec604d55ebcb41f0800000000000000
+      internalID: -1059529101343167256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_57
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 234
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e4c344b1eb71f40800000000000000
+      internalID: 5699232877778849308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_58
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 224
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c20308ccdeaa1a590800000000000000
+      internalID: -7664657152492949460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_59
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 226
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d25e82d4e47e940800000000000000
+      internalID: 5325311177694457236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_60
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 228
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193e3c73c74c171b0800000000000000
+      internalID: -5660527218837429359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_61
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 212
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3c2fc72190ce3e0800000000000000
+      internalID: -2023232157585849376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_62
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 126
+        width: 117
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5021981f9c8756930800000000000000
+      internalID: 4135844641545720325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_63
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 200
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab61f9f1eabe7f960800000000000000
+      internalID: 7635830826317321914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_64
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 193
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae42b792446ad1e70800000000000000
+      internalID: 9087602434787452138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_65
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 212
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d725b1a054c5b6e60800000000000000
+      internalID: 7956554618272174717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_66
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 214
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46209680a7733a7c0800000000000000
+      internalID: -4061341441691418012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_67
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 175
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd01bdd9839550ae0800000000000000
+      internalID: -1583761594249441060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_68
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 187
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c819a455b75c5e0800000000000000
+      internalID: -1889968862358565792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_69
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 129
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766611d3b952ef4a0800000000000000
+      internalID: -6557762658730154393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_70
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 129
+        width: 79
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e42c7a4e0cf1d20800000000000000
+      internalID: 3251529544284393068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_71
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 192
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ba437c241f90f20800000000000000
+      internalID: 3389505463685262167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_72
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 129
+        width: 73
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca973c7cd79ac8680800000000000000
+      internalID: -8751433618200233556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_73
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 194
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5822da040c00f850800000000000000
+      internalID: 6408635481249163355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_74
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 171
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1a5549a8efccdf0800000000000000
+      internalID: -158472015717228062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_75
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 168
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5448407e6b05ba6d0800000000000000
+      internalID: -2978197982085348283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_76
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 128
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c963d9e4a0a5d80800000000000000
+      internalID: -8261279233696424907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_77
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 123
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb80d602e300d33c0800000000000000
+      internalID: -4378342995902265154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_78
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 137
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d529c0a3563681c60800000000000000
+      internalID: 7789084841954021981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_79
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 131
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce9b2fd1c1aa61e0800000000000000
+      internalID: -2203771213599498551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_80
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 114
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7aa7bbf1d183930800000000000000
+      internalID: 4123077480984258516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_81
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 129
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e921e616bcf414ad0800000000000000
+      internalID: -2719804965023509858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emerald_Crystal_82
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 114
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4b332e302b93930800000000000000
+      internalID: 4123522663584085221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Emerald_Crystal_0: -4388193784262764511
+      Emerald_Crystal_1: 5739190278042731480
+      Emerald_Crystal_10: 9113632140483337011
+      Emerald_Crystal_11: -3897299002556719005
+      Emerald_Crystal_12: -1944321527046136671
+      Emerald_Crystal_13: 1612469008266629047
+      Emerald_Crystal_14: -2474832957149259458
+      Emerald_Crystal_15: -8437975462764958152
+      Emerald_Crystal_16: -2579047125189165416
+      Emerald_Crystal_17: 3490080834127088819
+      Emerald_Crystal_18: 7585510604380960876
+      Emerald_Crystal_19: 4191475835939766950
+      Emerald_Crystal_2: -8584670166110740377
+      Emerald_Crystal_20: 4215864212955875315
+      Emerald_Crystal_21: 2287811555209033169
+      Emerald_Crystal_22: -3961007675086915270
+      Emerald_Crystal_23: 2119089946614208898
+      Emerald_Crystal_24: 1069059610008563588
+      Emerald_Crystal_25: 7132326806064668959
+      Emerald_Crystal_26: 105346065256662058
+      Emerald_Crystal_27: 2357765011028829198
+      Emerald_Crystal_28: -2047004427196470840
+      Emerald_Crystal_29: 3508659852576365602
+      Emerald_Crystal_3: -7223497522098185779
+      Emerald_Crystal_30: 8738650875597106882
+      Emerald_Crystal_31: 4950787117281459822
+      Emerald_Crystal_32: 8677365453655357443
+      Emerald_Crystal_33: -1968371155104508697
+      Emerald_Crystal_34: 412288218404025405
+      Emerald_Crystal_35: -607850013622102069
+      Emerald_Crystal_36: -3878204023710088875
+      Emerald_Crystal_37: -3353451742346704957
+      Emerald_Crystal_38: 1697641240036631429
+      Emerald_Crystal_39: 6999042919043571950
+      Emerald_Crystal_4: -756205909101604579
+      Emerald_Crystal_40: 3054915024535787197
+      Emerald_Crystal_41: 2577076295617152310
+      Emerald_Crystal_42: 1836511650712423353
+      Emerald_Crystal_43: -9034882882114449811
+      Emerald_Crystal_44: 6137711324474553121
+      Emerald_Crystal_45: 1896343967781134069
+      Emerald_Crystal_46: -3350507475500185143
+      Emerald_Crystal_47: -9000228346808550383
+      Emerald_Crystal_48: 1179972940790679357
+      Emerald_Crystal_49: -8257332209684100176
+      Emerald_Crystal_5: -8579629022568585402
+      Emerald_Crystal_50: -7425425429396018539
+      Emerald_Crystal_51: -4968488895120947064
+      Emerald_Crystal_52: 7911077888874564453
+      Emerald_Crystal_53: -8433069350412789996
+      Emerald_Crystal_54: -6656128929414029995
+      Emerald_Crystal_55: 3276592794363691678
+      Emerald_Crystal_56: -1059529101343167256
+      Emerald_Crystal_57: 5699232877778849308
+      Emerald_Crystal_58: -7664657152492949460
+      Emerald_Crystal_59: 5325311177694457236
+      Emerald_Crystal_6: 7866546599485041580
+      Emerald_Crystal_60: -5660527218837429359
+      Emerald_Crystal_61: -2023232157585849376
+      Emerald_Crystal_62: 4135844641545720325
+      Emerald_Crystal_63: 7635830826317321914
+      Emerald_Crystal_64: 9087602434787452138
+      Emerald_Crystal_65: 7956554618272174717
+      Emerald_Crystal_66: -4061341441691418012
+      Emerald_Crystal_67: -1583761594249441060
+      Emerald_Crystal_68: -1889968862358565792
+      Emerald_Crystal_69: -6557762658730154393
+      Emerald_Crystal_7: 8366761316079836847
+      Emerald_Crystal_70: 3251529544284393068
+      Emerald_Crystal_71: 3389505463685262167
+      Emerald_Crystal_72: -8751433618200233556
+      Emerald_Crystal_73: 6408635481249163355
+      Emerald_Crystal_74: -158472015717228062
+      Emerald_Crystal_75: -2978197982085348283
+      Emerald_Crystal_76: -8261279233696424907
+      Emerald_Crystal_77: -4378342995902265154
+      Emerald_Crystal_78: 7789084841954021981
+      Emerald_Crystal_79: -2203771213599498551
+      Emerald_Crystal_8: 4030026604544105310
+      Emerald_Crystal_80: 4123077480984258516
+      Emerald_Crystal_81: -2719804965023509858
+      Emerald_Crystal_82: 4123522663584085221
+      Emerald_Crystal_9: 2481822439738319490
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -16,7 +16,7 @@ public class ForestGuardianMovement : MonoBehaviour
     [Header("Movement")]
     [SerializeField] private float walkSpeed = 5f;
     [SerializeField] private float runSpeed = 8f;
-    [SerializeField] private float jumpForce = 10f;
+    [SerializeField] private float jumpForce = 12f;
     [SerializeField, Min(1)] private int maximumJumps = 2;
 
     [Header("Ground Check")]
