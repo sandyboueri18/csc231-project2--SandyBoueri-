@@ -9,13 +9,14 @@ public class ForestGuardianMovement : MonoBehaviour
 
     [Header("Animation")]
     [SerializeField] private Animator animator;
-    
+    [Header("Magic Attack")]
+    [SerializeField] private ParticleSystem guardianMagicAttack;
+
     [Header("Health")]
     [SerializeField] private int maximumHealth = 3;
 
     [Header("Movement")]
-    [SerializeField] private float walkSpeed = 5f;
-    [SerializeField] private float runSpeed = 8f;
+    [SerializeField] private float moveSpeed = 8f;
     [SerializeField] private float jumpForce = 12f;
     [SerializeField, Min(1)] private int maximumJumps = 2;
 
@@ -24,15 +25,14 @@ public class ForestGuardianMovement : MonoBehaviour
     [SerializeField] private float groundCheckRadius = 0.1f;
   
     private InputAction moveAction;
-    private InputAction runAction;
     private InputAction jumpAction;
-  
+    private InputAction attackAction; 
+
     private Rigidbody2D body;
     private SpriteRenderer spriteRenderer;
     private float horizontalInput;
     private bool jumpRequested;
     private int jumpsRemaining = 1;
-    private bool isRunning;
     private bool isDead;
     private int currentHealth;
 
@@ -52,24 +52,24 @@ public class ForestGuardianMovement : MonoBehaviour
         }
 
         InputActionMap playerActions =inputActions.FindActionMap("Player", true);
-        moveAction = playerActions.FindAction("Move", true);
         jumpAction = playerActions.FindAction("Jump", true);
-        runAction = playerActions.FindAction("Run", true);
+        moveAction = playerActions.FindAction("Move", true);
+        attackAction = playerActions.FindAction("Attack", true);
     }
 
 
     private void OnEnable()
     {
-        moveAction?.Enable();
         jumpAction?.Enable();
-        runAction?.Enable();
-     }
+        moveAction?.Enable();
+        attackAction?.Enable();
+    }
 
     private void OnDisable()
     {
-        moveAction?.Disable();
         jumpAction?.Disable();
-        runAction?.Disable();
+        moveAction?.Disable();
+        attackAction?.Disable();
         jumpRequested = false;
     }
 
@@ -78,11 +78,17 @@ public class ForestGuardianMovement : MonoBehaviour
     {
         horizontalInput = isDead ? 0f : moveAction.ReadValue<float>();
         bool isOnGround = isGrounded();
-        isRunning = !isDead && runAction.IsPressed() && Mathf.Abs(horizontalInput) > 0.05f;
 
         if (!isDead && jumpAction.WasPressedThisFrame())
         {
             jumpRequested = true;
+        }
+        if (!isDead && attackAction.WasPressedThisFrame())
+        {
+            if (guardianMagicAttack != null)
+            {
+                guardianMagicAttack.Play();
+            }
         }
 
         bool isFalling =!isDead && !isOnGround && body.linearVelocity.y < -0.1f;
@@ -141,9 +147,7 @@ public class ForestGuardianMovement : MonoBehaviour
             jumpsRemaining = maximumJumps - 1;
         }
 
-        float speed = isRunning ? runSpeed : walkSpeed;
-
-        float movement = isDead ? 0f : horizontalInput * speed;
+        float movement = isDead ? 0f : horizontalInput * moveSpeed;
 
         body.linearVelocity =
             new Vector2(movement, body.linearVelocity.y);

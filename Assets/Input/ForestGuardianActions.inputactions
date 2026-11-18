@@ -17,9 +17,9 @@
                     "priority": 0
                 },
                 {
-                    "name": "Run",
+                    "name": "Jump",
                     "type": "Button",
-                    "id": "23a4a6a7-63c9-47ad-aefb-f9876bcd9f21",
+                    "id": "8bb124e4-3edb-41b0-9e48-ecbb2602e047",
                     "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
@@ -27,9 +27,9 @@
                     "priority": 0
                 },
                 {
-                    "name": "Jump",
+                    "name": "Attack",
                     "type": "Button",
-                    "id": "8bb124e4-3edb-41b0-9e48-ecbb2602e047",
+                    "id": "b9309507-29f5-4675-9c23-bf4e3652d40b",
                     "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
@@ -106,23 +106,34 @@
                 },
                 {
                     "name": "",
-                    "id": "31752b05-6a7d-423a-acb0-8c0541a9c0b8",
-                    "path": "<Keyboard>/leftShift",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "Run",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
                     "id": "5b350e4e-b11e-407b-aab0-6cb3e38182b7",
                     "path": "<Keyboard>/space",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
                     "action": "Jump",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "70955d3f-dd05-4f81-b476-67a21931a390",
+                    "path": "<Keyboard>/leftShift",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Attack",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "cf0bcfe9-3d08-4964-8e9f-a8d6534924a4",
+                    "path": "<Keyboard>/rightShift",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Attack",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }

@@ -1,0 +1,561 @@
+fileFormatVersion: 2
+guid: bf3febe24b78717478332fed2d2b863b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6835121638645928595
+    second: PoisonMushroom_Idle_Normal_0
+  - first:
+      213: -9010156797306459399
+    second: PoisonMushroom_Idle_Normal_1
+  - first:
+      213: 4427285157950019425
+    second: PoisonMushroom_Idle_Normal_2
+  - first:
+      213: 4724121454109695377
+    second: PoisonMushroom_Idle_Normal_3
+  - first:
+      213: -4487425059908185954
+    second: PoisonMushroom_Idle_Normal_4
+  - first:
+      213: 1357214169147141690
+    second: PoisonMushroom_Idle_Normal_5
+  - first:
+      213: 5457359887257284360
+    second: PoisonMushroom_Idle_Normal_6
+  - first:
+      213: 7194263056951734341
+    second: PoisonMushroom_Idle_Normal_7
+  - first:
+      213: -1717017789432276893
+    second: PoisonMushroom_Idle_Normal_8
+  - first:
+      213: -7322000444324200077
+    second: PoisonMushroom_Idle_Normal_9
+  - first:
+      213: 4927874582508374037
+    second: PoisonMushroom_Idle_Normal_10
+  - first:
+      213: -2486806356127314650
+    second: PoisonMushroom_Idle_Normal_11
+  - first:
+      213: 1723108248878055493
+    second: PoisonMushroom_Idle_Normal_12
+  - first:
+      213: 5346951749644165807
+    second: PoisonMushroom_Idle_Normal_13
+  - first:
+      213: 1573811113205123991
+    second: PoisonMushroom_Idle_Normal_14
+  - first:
+      213: 5158017580449364557
+    second: PoisonMushroom_Idle_Normal_15
+  - first:
+      213: 5659552775181565404
+    second: PoisonMushroom_Idle_Normal_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PoisonMushroom_Idle_Normal_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1256
+        height: 1115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d6ceb6515c421a0800000000000000
+      internalID: -6835121638645928595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonMushroom_Idle_Normal_1
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1074
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa2af5712e75f280800000000000000
+      internalID: -9010156797306459399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonMushroom_Idle_Normal_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 774
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16758f6f460e07d30800000000000000
+      internalID: 4427285157950019425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonMushroom_Idle_Normal_3
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 760
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d920cde637f8140800000000000000
+      internalID: 4724121454109695377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonMushroom_Idle_Normal_4
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 693
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e909cf3fea679b1c0800000000000000
+      internalID: -4487425059908185954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonMushroom_Idle_Normal_5
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 615
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e6424981bc5d210800000000000000
+      internalID: 1357214169147141690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonMushroom_Idle_Normal_6
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 443
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80faf6337ef6cbb40800000000000000
+      internalID: 5457359887257284360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonMushroom_Idle_Normal_7
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 175
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540f25a222827d360800000000000000
+      internalID: 7194263056951734341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonMushroom_Idle_Normal_8
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 65
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 368dcdbea6deb28e0800000000000000
+      internalID: -1717017789432276893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonMushroom_Idle_Normal_9
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 26
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371cdc6b367036a90800000000000000
+      internalID: -7322000444324200077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonMushroom_Idle_Normal_10
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 55
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5188614e2d3536440800000000000000
+      internalID: 4927874582508374037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonMushroom_Idle_Normal_11
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 49
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d09d57bc61d7dd0800000000000000
+      internalID: -2486806356127314650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonMushroom_Idle_Normal_12
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 50
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5400ceba2d5b9e710800000000000000
+      internalID: 1723108248878055493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonMushroom_Idle_Normal_13
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 49
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2a1b47940343a40800000000000000
+      internalID: 5346951749644165807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonMushroom_Idle_Normal_14
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 51
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b472a7edc47d510800000000000000
+      internalID: 1573811113205123991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonMushroom_Idle_Normal_15
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 39
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a77eb39a5f49740800000000000000
+      internalID: 5158017580449364557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonMushroom_Idle_Normal_16
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 7
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cddf5407345ca8e40800000000000000
+      internalID: 5659552775181565404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PoisonMushroom_Idle_Normal_0: -6835121638645928595
+      PoisonMushroom_Idle_Normal_1: -9010156797306459399
+      PoisonMushroom_Idle_Normal_10: 4927874582508374037
+      PoisonMushroom_Idle_Normal_11: -2486806356127314650
+      PoisonMushroom_Idle_Normal_12: 1723108248878055493
+      PoisonMushroom_Idle_Normal_13: 5346951749644165807
+      PoisonMushroom_Idle_Normal_14: 1573811113205123991
+      PoisonMushroom_Idle_Normal_15: 5158017580449364557
+      PoisonMushroom_Idle_Normal_16: 5659552775181565404
+      PoisonMushroom_Idle_Normal_2: 4427285157950019425
+      PoisonMushroom_Idle_Normal_3: 4724121454109695377
+      PoisonMushroom_Idle_Normal_4: -4487425059908185954
+      PoisonMushroom_Idle_Normal_5: 1357214169147141690
+      PoisonMushroom_Idle_Normal_6: 5457359887257284360
+      PoisonMushroom_Idle_Normal_7: 7194263056951734341
+      PoisonMushroom_Idle_Normal_8: -1717017789432276893
+      PoisonMushroom_Idle_Normal_9: -7322000444324200077
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
