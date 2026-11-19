@@ -37,6 +37,7 @@ public class MushroomAttack : MonoBehaviour
         {
             poisonParticles.Play();
             attackTimer = attackCooldown;
+            poisonParticles.Stop();
         }
     }
 }
