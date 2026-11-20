@@ -35,9 +35,12 @@ public class MushroomAttack : MonoBehaviour
 
         if (distance <= attackRange && attackTimer <= 0f)
         {
+
+            poisonParticles.Stop(true, ParticleSystemStopBehavior.StopEmittingAndClear);
             poisonParticles.Play();
+            Debug.Log("Mushroom is attacking!");
             attackTimer = attackCooldown;
-            poisonParticles.Stop();
+           
         }
     }
 }

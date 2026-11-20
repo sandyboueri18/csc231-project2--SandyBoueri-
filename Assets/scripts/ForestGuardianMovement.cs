@@ -14,6 +14,7 @@ public class ForestGuardianMovement : MonoBehaviour
 
     [Header("Health")]
     [SerializeField] private int maximumHealth = 3;
+    [SerializeField] private float damageCooldown = 1f;
 
     [Header("Movement")]
     [SerializeField] private float moveSpeed = 8f;
@@ -35,6 +36,7 @@ public class ForestGuardianMovement : MonoBehaviour
     private int jumpsRemaining = 1;
     private bool isDead;
     private int currentHealth;
+    private float nextDamageTime;
 
 
     public bool IsDead => isDead;
@@ -79,16 +81,43 @@ public class ForestGuardianMovement : MonoBehaviour
         horizontalInput = isDead ? 0f : moveAction.ReadValue<float>();
         bool isOnGround = isGrounded();
 
-        if (!isDead && jumpAction.WasPressedThisFrame())
-        {
-            jumpRequested = true;
-        }
         if (!isDead && attackAction.WasPressedThisFrame())
         {
             if (guardianMagicAttack != null)
             {
+                var shape = guardianMagicAttack.shape;
+
+                if (spriteRenderer.flipX)
+                {
+                    shape.rotation = new Vector3(0f, -90f, 0f);
+
+                    guardianMagicAttack.transform.localRotation =
+                        Quaternion.Euler(0f, 0f, 26f);
+
+                    guardianMagicAttack.transform.localPosition =
+                        new Vector3(-3.84f, 0.68f, 0f);
+                }
+                else
+                {
+                    shape.rotation = new Vector3(0f, 90f, 0f);
+
+                    guardianMagicAttack.transform.localRotation =
+                        Quaternion.Euler(0f, 0f, -26f);
+
+                    guardianMagicAttack.transform.localPosition =
+                        new Vector3(3.84f, 0.68f, 0f);
+                }
+
                 guardianMagicAttack.Play();
             }
+        }
+        if (!isDead && jumpAction.WasPressedThisFrame())
+        {
+            Debug.Log("Space detected!");
+            Debug.Log("Jumps remaining: " + jumpsRemaining);
+            Debug.Log("Grounded: " + isGrounded());
+
+            jumpRequested = true;
         }
 
         bool isFalling =!isDead && !isOnGround && body.linearVelocity.y < -0.1f;
@@ -106,10 +135,12 @@ public class ForestGuardianMovement : MonoBehaviour
 
     public void TakeDamage(int damage)
     {
-        if (isDead || damage <= 0)
+        if (isDead || damage <= 0 || Time.time < nextDamageTime)
         {
             return;
         }
+
+        nextDamageTime = Time.time + damageCooldown;
 
         currentHealth = Mathf.Max(0, currentHealth - damage);
 
@@ -127,12 +158,12 @@ public class ForestGuardianMovement : MonoBehaviour
 
         Debug.Log(currentHealth);
     }
-
     public void Revive()
     {
         currentHealth = maximumHealth;
         isDead = false;
         jumpsRemaining = 1;
+        nextDamageTime = 0f;
 
         animator.SetBool("isDead", false);
     }
