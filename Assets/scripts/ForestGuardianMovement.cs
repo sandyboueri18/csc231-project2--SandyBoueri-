@@ -13,7 +13,7 @@ public class ForestGuardianMovement : MonoBehaviour
     [SerializeField] private ParticleSystem guardianMagicAttack;
 
     [Header("Health")]
-    [SerializeField] private int maximumHealth = 3;
+    [SerializeField] private int maximumHealth = 5;
     [SerializeField] private float damageCooldown = 1f;
 
     [Header("Movement")]
@@ -40,6 +40,7 @@ public class ForestGuardianMovement : MonoBehaviour
 
 
     public bool IsDead => isDead;
+    public int CurrentHealth => currentHealth;
     private void Awake()
     {
         body = GetComponent<Rigidbody2D>();
