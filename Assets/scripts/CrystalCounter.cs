@@ -7,7 +7,7 @@ public class CrystalCounter : MonoBehaviour
     [SerializeField] private TextMeshProUGUI counterText;
 
     private int collectedCrystals = 0;
-    private int totalCrystals = 1;
+    private int totalCrystals = 4;
 
     private void Start()
     {
