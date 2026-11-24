@@ -24,7 +24,9 @@ public class ForestGuardianMovement : MonoBehaviour
     [Header("Ground Check")]
     [SerializeField] private Transform groundCheck;
     [SerializeField] private float groundCheckRadius = 0.1f;
-  
+    [Header("Fall Detection")]
+    [SerializeField] private float fallLimit = -15f;
+
     private InputAction moveAction;
     private InputAction jumpAction;
     private InputAction attackAction; 
@@ -79,6 +81,11 @@ public class ForestGuardianMovement : MonoBehaviour
 
     private void Update()
     {
+        if (!isDead && transform.position.y < fallLimit)
+        {
+            FallDeath();
+            return;
+        }
         horizontalInput = isDead ? 0f : moveAction.ReadValue<float>();
         bool isOnGround = isGrounded();
 
@@ -159,6 +166,21 @@ public class ForestGuardianMovement : MonoBehaviour
 
         Debug.Log(currentHealth);
     }
+
+    private void FallDeath()
+    {
+        currentHealth = 0;
+        isDead = true;
+        horizontalInput = 0f;
+        jumpRequested = false;
+
+        body.linearVelocity = Vector2.zero;
+
+        animator.SetBool("isFalling", false);
+        animator.SetBool("isDead", true);
+
+        Debug.Log("Guardian fell into the void!");
+    }
     public void Revive()
     {
         currentHealth = maximumHealth;
@@ -166,7 +188,16 @@ public class ForestGuardianMovement : MonoBehaviour
         jumpsRemaining = 1;
         nextDamageTime = 0f;
 
+        horizontalInput = 0f;
+        jumpRequested = false;
+
         animator.SetBool("isDead", false);
+        animator.SetBool("isFalling", false);
+        animator.SetBool("isGrounded", true);
+        animator.SetFloat("speed", 0f);
+
+        animator.Play("Idle", 0, 0f);
+        animator.Update(0f);
     }
     private void FixedUpdate()
     {

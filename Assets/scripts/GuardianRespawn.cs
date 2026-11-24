@@ -32,7 +32,7 @@ public class GuardianRespawn : MonoBehaviour
     {
         isRespawning = true;
 
-        // Remove one life and check for Game Over.
+       
         bool isGameOver = gameOverManager.PlayerDied();
 
         if (isGameOver)
@@ -40,14 +40,11 @@ public class GuardianRespawn : MonoBehaviour
             yield break;
         }
 
-        // Wait before respawning.
         yield return new WaitForSeconds(respawnDelay);
 
-        // Return to the starting point or checkpoint.
         body.position = spawnPoint.position;
         body.linearVelocity = Vector2.zero;
 
-        // Restore the Guardian.
         guardian.Revive();
 
         isRespawning = false;
