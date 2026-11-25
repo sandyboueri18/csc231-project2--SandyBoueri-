@@ -5,6 +5,11 @@ public class EmeraldCollectible : MonoBehaviour
 {
     public Animator portalAnimator;
     public CrystalCounter crystalCounter;
+    [Header("Sound Effects")]
+    [SerializeField] private AudioSource audioSource;
+    [SerializeField] private AudioClip collectSound;
+    [Header("Visual Effects")]
+    [SerializeField] private ParticleSystem pickupParticles;
 
     [Header("Crystal Spawn Points")]
     public Transform[] spawnPoints;
@@ -26,6 +31,12 @@ public class EmeraldCollectible : MonoBehaviour
             collectedCrystals++;
 
             crystalCounter.CollectCrystal();
+            audioSource.PlayOneShot(collectSound);
+            if (pickupParticles != null)
+            {
+                pickupParticles.transform.position = transform.position;
+                pickupParticles.Emit(25);
+            }
 
             Debug.Log("Crystal Collected: " + collectedCrystals);
 

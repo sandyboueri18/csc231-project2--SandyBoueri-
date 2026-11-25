@@ -10,6 +10,11 @@ public class GameOverManager : MonoBehaviour
     [Header("Player Lives")]
     public int maxLives = 3;
 
+    [Header("Sound Effects")]
+    [SerializeField] private AudioSource audioSource;
+    [SerializeField] private AudioSource backgroundMusic;
+    [SerializeField] private AudioClip losingSound;
+
     private int remainingLives;
     private bool gameOver = false;
 
@@ -43,6 +48,9 @@ public class GameOverManager : MonoBehaviour
         gameOver = true;
         gameOverPanel.SetActive(true);
 
+        backgroundMusic.Stop();
+        audioSource.PlayOneShot(losingSound);
+
         Time.timeScale = 0f;
     }
 
@@ -51,7 +59,6 @@ public class GameOverManager : MonoBehaviour
         Time.timeScale = 1f;
 
         SceneManager.LoadScene(
-            SceneManager.GetActiveScene().buildIndex
-        );
+            SceneManager.GetActiveScene().buildIndex);
     }
 }

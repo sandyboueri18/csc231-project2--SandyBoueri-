@@ -1,5 +1,7 @@
+
 using UnityEngine;
 using UnityEngine.InputSystem;
+using System.Collections;
 
 [RequireComponent(typeof(Rigidbody2D), typeof(CapsuleCollider2D))]
 public class ForestGuardianMovement : MonoBehaviour
@@ -9,12 +11,21 @@ public class ForestGuardianMovement : MonoBehaviour
 
     [Header("Animation")]
     [SerializeField] private Animator animator;
+
     [Header("Magic Attack")]
     [SerializeField] private ParticleSystem guardianMagicAttack;
 
     [Header("Health")]
     [SerializeField] private int maximumHealth = 5;
     [SerializeField] private float damageCooldown = 1f;
+
+    [Header("Sound Effects")]
+    [SerializeField] private AudioSource audioSource;
+    [SerializeField] private AudioClip jumpSound;
+    [SerializeField] private AudioClip landingSound;
+    [SerializeField] private AudioClip hurtSound;
+
+    private bool wasGrounded;
 
     [Header("Movement")]
     [SerializeField] private float moveSpeed = 8f;
@@ -24,12 +35,13 @@ public class ForestGuardianMovement : MonoBehaviour
     [Header("Ground Check")]
     [SerializeField] private Transform groundCheck;
     [SerializeField] private float groundCheckRadius = 0.1f;
+
     [Header("Fall Detection")]
     [SerializeField] private float fallLimit = -15f;
 
     private InputAction moveAction;
     private InputAction jumpAction;
-    private InputAction attackAction; 
+    private InputAction attackAction;
 
     private Rigidbody2D body;
     private SpriteRenderer spriteRenderer;
@@ -40,9 +52,9 @@ public class ForestGuardianMovement : MonoBehaviour
     private int currentHealth;
     private float nextDamageTime;
 
-
     public bool IsDead => isDead;
     public int CurrentHealth => currentHealth;
+
     private void Awake()
     {
         body = GetComponent<Rigidbody2D>();
@@ -56,12 +68,13 @@ public class ForestGuardianMovement : MonoBehaviour
             return;
         }
 
-        InputActionMap playerActions =inputActions.FindActionMap("Player", true);
+        InputActionMap playerActions =
+            inputActions.FindActionMap("Player", true);
+
         jumpAction = playerActions.FindAction("Jump", true);
         moveAction = playerActions.FindAction("Move", true);
         attackAction = playerActions.FindAction("Attack", true);
     }
-
 
     private void OnEnable()
     {
@@ -75,9 +88,9 @@ public class ForestGuardianMovement : MonoBehaviour
         jumpAction?.Disable();
         moveAction?.Disable();
         attackAction?.Disable();
+
         jumpRequested = false;
     }
-
 
     private void Update()
     {
@@ -86,8 +99,17 @@ public class ForestGuardianMovement : MonoBehaviour
             FallDeath();
             return;
         }
+
         horizontalInput = isDead ? 0f : moveAction.ReadValue<float>();
+
         bool isOnGround = isGrounded();
+
+        if (!isDead && isOnGround && !wasGrounded)
+        {
+            audioSource.PlayOneShot(landingSound);
+        }
+
+        wasGrounded = isOnGround;
 
         if (!isDead && attackAction.WasPressedThisFrame())
         {
@@ -119,6 +141,7 @@ public class ForestGuardianMovement : MonoBehaviour
                 guardianMagicAttack.Play();
             }
         }
+
         if (!isDead && jumpAction.WasPressedThisFrame())
         {
             Debug.Log("Space detected!");
@@ -128,14 +151,16 @@ public class ForestGuardianMovement : MonoBehaviour
             jumpRequested = true;
         }
 
-        bool isFalling =!isDead && !isOnGround && body.linearVelocity.y < -0.1f;
+        bool isFalling =
+            !isDead && !isOnGround &&
+            body.linearVelocity.y < -0.1f;
 
         animator.SetFloat("speed", Mathf.Abs(horizontalInput));
         animator.SetBool("isGrounded", isOnGround);
         animator.SetBool("isFalling", isFalling);
         animator.SetBool("isDead", isDead);
 
-       if (!isDead && Mathf.Abs(horizontalInput) > 0.05f)
+        if (!isDead && Mathf.Abs(horizontalInput) > 0.05f)
         {
             spriteRenderer.flipX = horizontalInput < 0f;
         }
@@ -151,6 +176,10 @@ public class ForestGuardianMovement : MonoBehaviour
         nextDamageTime = Time.time + damageCooldown;
 
         currentHealth = Mathf.Max(0, currentHealth - damage);
+
+        audioSource.PlayOneShot(hurtSound);
+
+        StartCoroutine(HitFlash());
 
         if (currentHealth <= 0)
         {
@@ -181,6 +210,7 @@ public class ForestGuardianMovement : MonoBehaviour
 
         Debug.Log("Guardian fell into the void!");
     }
+
     public void Revive()
     {
         currentHealth = maximumHealth;
@@ -191,6 +221,8 @@ public class ForestGuardianMovement : MonoBehaviour
         horizontalInput = 0f;
         jumpRequested = false;
 
+        spriteRenderer.color = Color.white;
+
         animator.SetBool("isDead", false);
         animator.SetBool("isFalling", false);
         animator.SetBool("isGrounded", true);
@@ -199,6 +231,16 @@ public class ForestGuardianMovement : MonoBehaviour
         animator.Play("Idle", 0, 0f);
         animator.Update(0f);
     }
+
+    private IEnumerator HitFlash()
+    {
+        spriteRenderer.color = Color.red;
+
+        yield return new WaitForSecondsRealtime(0.15f);
+
+        spriteRenderer.color = Color.white;
+    }
+
     private void FixedUpdate()
     {
         if (isGrounded())
@@ -223,6 +265,8 @@ public class ForestGuardianMovement : MonoBehaviour
                     new Vector2(body.linearVelocity.x, jumpForce);
 
                 jumpsRemaining--;
+
+                audioSource.PlayOneShot(jumpSound);
             }
 
             jumpRequested = false;
@@ -241,11 +285,14 @@ public class ForestGuardianMovement : MonoBehaviour
             return false;
         }
 
-        Collider2D[] hits = Physics2D.OverlapCircleAll(groundCheck.position,groundCheckRadius);
+        Collider2D[] hits = Physics2D.OverlapCircleAll(
+            groundCheck.position, groundCheckRadius);
 
         foreach (Collider2D hit in hits)
         {
-            if (hit.CompareTag("Ground") && !hit.isTrigger && hit.attachedRigidbody != body)
+            if (hit.CompareTag("Ground") &&
+                !hit.isTrigger &&
+                hit.attachedRigidbody != body)
             {
                 return true;
             }
@@ -253,6 +300,4 @@ public class ForestGuardianMovement : MonoBehaviour
 
         return false;
     }
-
-
 }

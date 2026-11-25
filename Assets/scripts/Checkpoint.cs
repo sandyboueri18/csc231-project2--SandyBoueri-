@@ -4,6 +4,9 @@ public class Checkpoint : MonoBehaviour
 {
     [SerializeField] private Animator animator;
     [SerializeField] private Transform respawnPosition;
+    [Header("Sound Effects")]
+    [SerializeField] private AudioSource audioSource;
+    [SerializeField] private AudioClip checkpointSound;
 
     private bool isActivated = false;
 
@@ -19,6 +22,7 @@ public class Checkpoint : MonoBehaviour
             animator.SetBool("isActivated", true);
 
             guardian.SetCheckpoint(respawnPosition);
+            audioSource.PlayOneShot(checkpointSound);
 
             Debug.Log("Checkpoint activated!");
         }
