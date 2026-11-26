@@ -2,15 +2,15 @@
 
 
 
-\*\*CSC 231 – Project 2: Platformer MVP (Level 1)\*\*  
+\*\*CSC 231 – Project 2: Platformer MVP (Level 1)\*\*
 
-\*\*Developer:\*\* Sandy Boueri  
+\*\*Developer:\*\* Sandy Boueri
 
-\*\*Instructor:\*\* Firas El Jerdy  
+\*\*Instructor:\*\* Firas El Jerdy
 
-\*\*University:\*\* Notre Dame University  
+\*\*University:\*\* Notre Dame University
 
-\*\*Game Engine:\*\* Unity 6 (6000.6.2f1)  
+\*\*Game Engine:\*\* Unity 6 (6000.6.2f1)
 
 \*\*Platform:\*\* Windows
 
@@ -280,23 +280,23 @@ License information: https://pixabay.com/service/license-summary/
 
 | Audio asset | Source link |
 
-|---|---|
 
-| Background music | \[Insert Pixabay link] |
 
-| Jump sound | \[Insert Pixabay link] |
+| Background music | https://pixabay.com/music/fantasy-dreamy-childrens-enchanted-fantasy-356791/ |
 
-| Landing sound | \[Insert Pixabay link] |
+| Jump sound | https://pixabay.com/sound-effects/film-special-effects-swing-whoosh-110410/ |
 
-| Crystal collection sound | From https://pixabay.com |
+| Landing sound | https://pixabay.com/sound-effects/film-special-effects-lose-sfx-365579/ |
 
-| Damage sound | \[Insert Pixabay link] |
+| Crystal collection sound | https://pixabay.com/sound-effects/film-special-effects-fantasy-ui-button-6-102219/|
 
-| Checkpoint sound | \[Insert Pixabay link] |
+| Damage sound | https://pixabay.com/sound-effects/film-special-effects-damage-40114/ |
 
-| Victory sound | \[Insert Pixabay link] |
+| Checkpoint sound |  https://pixabay.com/sound-effects/film-special-effects-a-magical-discovery-chime-395712/ |
 
-| Game Over sound | \[Insert Pixabay link] |
+| Victory sound | https://pixabay.com/sound-effects/musical-orchestral-win-331233/ |
+
+| Game Over sound | https://pixabay.com/sound-effects/film-special-effects-lose-sfx-365579/ |
 
 
 
